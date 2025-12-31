@@ -1,0 +1,2 @@
+# posaku
+Kasir sederhana
